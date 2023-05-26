@@ -1,7 +1,3 @@
- -p 443 -s 0.0.0.0 -k PASS.w0rd.. -m aes-256-ctr -o -g -O auth_aes128_md5
- 
- 
- 
 #!/bin/bash
 #=============================================================
 # https://github.com/P3TERX/Actions-OpenWrt
